@@ -1,0 +1,19 @@
+{
+  "name": "orderedjobkata2",
+  "version": "1.0.0",
+  "description": "https://github.com/drawain/node-school/tree/master/practices/4-ordered-job-tdd",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cseby92/OrderedJobKata2.git"
+  },
+  "author": "",
+  "license": "ISC",
+    "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  }
+}
